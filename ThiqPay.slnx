@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Common/">
+    <Project Path="Common/Modules.Common.API/Modules.Common.API.csproj" Id="dd6f21e4-0c68-4026-be7b-4b111b093002" />
+    <Project Path="Common/Modules.Common.Application/Modules.Common.Application.csproj" Id="a66a4ad2-8824-4734-975d-20f72a4cf2b3" />
+    <Project Path="Common/Modules.Common.Domain/Modules.Common.Domain.csproj" Id="d208698e-9916-4944-b528-dc0a2f9a1a13" />
+    <Project Path="Common/Modules.Common.Infrastructure/Modules.Common.Infrastructure.csproj" Id="23e432b6-8e6e-4f69-afd6-3483ed60b20c" />
+  </Folder>
+  <Folder Name="/Common/Tests/" />
+  <Project Path="ThiqPay.AppHost/ThiqPay.AppHost.csproj" />
+  <Project Path="ThiqPay.Host/ThiqPay.Host.csproj" />
+  <Project Path="ThiqPay.ServiceDefaults/ThiqPay.ServiceDefaults.csproj" />
+</Solution>
